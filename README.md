@@ -1,10 +1,13 @@
 # TP3 - Histogrammes et Quantification
 
-> BINP - Université de Rennes 1  
-> Étudiants :  
-> - **Damien Vailland**  
-> - **Axel Plessis**  
-> Date : 24/09/2024
+> **BINP - Université de Rennes**
+>   
+> **Étudiants** :
+> 
+> - *Damien Vailland*
+> - *Axel Plessis*
+> - 
+> **Date** : 24/09/2024
 
 ## 🧠 Objectifs
 
